@@ -18,3 +18,5 @@ app.use("/person", personRoute);
 app.use("/menu", menuRoute);
 
 app.listen(PORT, () => console.log(`Server is running on port: ${PORT}`));
+
+//adding comment to test
